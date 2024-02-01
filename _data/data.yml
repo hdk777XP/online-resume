@@ -1,8 +1,8 @@
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title
+  name: _______                      # name
+  title: DA SP           # job title
   avatar:
-    show: true                       # show or hide avatar
+    show: false                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
