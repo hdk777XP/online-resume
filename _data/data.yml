@@ -1,5 +1,5 @@
 basic:
-  name: DaeKun Heo                       # name
+  name: DK H                       # name
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
@@ -12,7 +12,7 @@ contact:
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   # other cv
-  linkedin:  https://www.linkedin.com/in/dkheo              # username          | https://linkedin.com/in/username
+  linkedin:  dkheo              # username          | https://linkedin.com/in/username
 
 profile:
   show: true
@@ -32,12 +32,31 @@ experience:
       link:
       tags: Full-time
       date: 2018.01 - Current
-      role: Policy Associate 
+      role: Policy Associate / Statistical Programmer
       location: Remote
       description: |
         + First
         + Second
-
+    - company: Acumen LLC   
+      link:
+      tags: Full-time
+      date: 2018.01 - 2018.12
+      role: DPA I
+      location: Burlingame, CA
+      description: |
+        Your key responsibilities and achievements in the company.
+        + First
+        + Second
+    - company: Acumen LLC   
+      link:
+      tags: Full-time
+      date: 2018.01 - 2018.12
+      role: DPA I-IV
+      location: Burlingame, CA
+      description: |
+        Your key responsibilities and achievements in the company.
+        + First
+        + Second
     - company: Acumen LLC   
       link:
       tags: Full-time
