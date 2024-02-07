@@ -38,7 +38,7 @@ experience:
         + First
         + Second
 
-    - company:
+    - company:    
       link:
       tags: Full-time
       date: 2017.03 - 2018.03
@@ -54,14 +54,9 @@ project:
   order: 3
   title: Projects
   description: |
-    The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
-
-    In this section, you should include the name of the project, the role you played in the project, the duration, the tools and technologies you used, the objective of the project, and the outcome or result achieved. You can also include any relevant metrics or data that demonstrate the impact of the project.
-
-    The project section is especially useful for candidates with limited work experience or those looking to highlight specific skills or accomplishments that may not be apparent in other parts of their resume. It can also be beneficial for candidates in technical or creative fields, where projects play a significant role in showcasing their capabilities.
-
+    
   items:
-    - name: Personal project
+    - name: Affordable Care Act (ACA) Health Insurance Model
       link:
       tags:
       date: 2015 - 2017
@@ -84,16 +79,11 @@ skill:
   order: 4
   title: Skills
   description: |
-    + SQL: 5+ Years of Experience
-    + SAS: 5+ Years of Experience
-    + STATA: 3+ Years of Experience
-    + R: 2+ Years of Experience
+    + SQL:    5+ Years of Experience
+    + SAS:    5+ Years of Experience
+    + STATA:  3+ Years of Experience
+    + R:      2+ Years of Experience
     + Python: Less than 1 Year of Experience
-
-  items:
-    - name: SQL 5+ Years of Experience
-    - name: Skill B
-      level: 4
 
 
 education:
@@ -106,23 +96,22 @@ education:
     In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
 
   items:
-    - institution: Example University
-      link: '#'
-      date: 2015 - 2018
-      major: Machine Learning
-      degree: Master
+    - institution: University of California, Berkeley
+      link:
+      date: 2013 - 2017
+      major: Statistics
+      degree: Bachelor
       description: |
-        Additional information for this institution.
+        Courses: 
         + First
         + Second
 
-    - institution: Example University
+    - institution: University of California, Berkeley
       link:
-      date: 2011 - 2015
-      major: Computer Science
+      date: 2013 - 2017
+      major: Economics
       degree: Bachelor
       description: |
-        Additional information for this institution.
         + First
         + Second
 
@@ -241,32 +230,26 @@ language:
   order: 11
   title: Languages
   description: |
-    The languages section in a resume typically includes information about your proficiency in different languages. This section can be particularly important if you are applying for a job that requires fluency or proficiency in a specific language.
-
-    It's important to be honest about your language proficiency in your resume. If you overstate your abilities, it could lead to problems during the interview process or on the job. If you have taken language courses or earned language certifications, you can also include this information in the languages section of your resume.
-
   items:
-    - idiom: English
-      level: Native
     - idiom: Korean
       level: Professional
-
+    - idiom: Spanish
+      level: Elementary
+    - idiom: Mandarin
+      level: Elementary
 interest:
   show: true
   order: 12
   title: Interests
   description: |
-    The interests section in a resume typically refers to a section where you can mention your hobbies, interests, and activities outside of work or school. This section can give potential employers a better idea of your personality, your values, and your interests beyond your professional experience.
-
-    Including an interest section in your resume can be helpful if your interests are relevant to the job you are applying for, such as if you are applying for a job in a creative field and your hobbies include painting or writing. It can also be useful if you are applying for a job where teamwork or social skills are important, and you can mention interests that demonstrate those qualities.
-
-    However, it is important to be selective when including an interest section in your resume, and to choose interests that are appropriate and professional. Avoid including controversial or potentially offensive interests, and focus on interests that showcase your positive qualities and strengths.
 
   items:
+    - item: Hiking
+    - item: Soccer
+    - item: Chess
     - item: Reading
-      link: 
     - item: Cooking
-      link:
+
 
 evaluation:
   show: false
