@@ -103,7 +103,7 @@ experience:
         + First
         + Second
 
-    - 
+    - company: A L
       link:
       tags: Part-time, remote
       date: 2017.03 - 2018.03
@@ -158,8 +158,7 @@ skill:
     There are multiple ways to present your skills here. One way is to show them in a rating format. Another way is to group them together. Alternatively, you can use markdown to format it in a way that you prefer.
 
   items:
-    - name: SQL
-      5+ Years of Experience
+    - name: SQL 5+ Years of Experience
     - name: Skill B
       level: 4
 
