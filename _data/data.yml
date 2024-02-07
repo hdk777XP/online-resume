@@ -31,42 +31,19 @@ experience:
     - company: Acumen LLC
       link:
       tags: Full-time
-      date: 2018.01 - Current
+      date: 2021.01 - Current
       role: Policy Associate / Statistical Programmer
       location: Remote
       description: |
-        + First
-        + Second
+
     - company: Acumen LLC   
       link:
       tags: Full-time
-      date: 2018.01 - 2018.12
-      role: DPA I
+      date: 2018.01 - 20120.12
+      role: DPA I-IV / Statistical Programmer
       location: Burlingame, CA
       description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-    - company: Acumen LLC   
-      link:
-      tags: Full-time
-      date: 2018.01 - 2018.12
-      role: DPA I-IV
-      location: Burlingame, CA
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
-    - company: Acumen LLC   
-      link:
-      tags: Full-time
-      date: 2018.01 - 2018.12
-      role: DPA I
-      location: Burlingame, CA
-      description: |
-        Your key responsibilities and achievements in the company.
-        + First
-        + Second
+
 
 project:
   show: true
@@ -76,7 +53,7 @@ project:
     
   items:
     - name: Affordable Care Act (ACA) Health Insurance Model
-      link:
+      link: https://www.cms.gov/cciio/programs-and-initiatives/state-innovation-waivers/downloads/1332-ga-waiver-acumen-analysis.pdf
       tags:
       date:
       description: |
@@ -89,9 +66,8 @@ project:
       tags: 
       date:
       description: |
-        Helped produce 3rd, 4th, 5th annual evaluation reports published on public government website:
+        Helped produce the 3rd, 4th, 5th annual evaluation reports
         + Evaluated the impact of Part D providers intervention programs by utilizing propensity scores and Diff-in-Diff method on clinical measures and medical spending from Medicare claims and enrollment data.
-        + Second
     
     - name: Episode-Based Cost Measures
       link:
@@ -100,7 +76,7 @@ project:
       description: |
         + Provided data-driven policy advisory services to the Centers for Medicare and Medicaid Services (CMS) on the design and implementation of cost-measures to evaluate clinicians cost-efficiency under the Merit-based Incentive Payment System.
         + Communicated with stake holders (i.e. providers, clinical specialty groups, and private companies) to incorporate clinical guidance into technical specifications and address feedback using data-driven analyses
-        + Produced and delivered 100,000+ reports to clinicians, clinician groups, and hospitals on their cost measure performance and guidance for improvement for policy beta-testing
+        + Produced 100,000+ reports to clinicians, clinician groups, and hospitals on their cost measure performance and guidance for improvement for policy beta-testing
 skill:
   show: true
   order: 4
