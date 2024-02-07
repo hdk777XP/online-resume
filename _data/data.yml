@@ -51,7 +51,15 @@ experience:
       role: DPA I-II / Statistical Programmer
       location: Burlingame, CA
       description: |
-
+      
+    - company: Undergraduate Research Apprentice Program at UC Berkeley   
+      link:
+      tags: Student
+      date: 2016.01 - 2016.05
+      role: Research Apprentice
+      location: Berkeley, CA
+      description: |
+        + Analyzed the demographic, political, and financial effects on the voting patterns of Regents for the project “Governing the University of California: A Historical Inquiry,” the governance structures at the University of California
 
 project:
   show: true
