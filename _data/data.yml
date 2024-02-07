@@ -3,7 +3,7 @@ basic:
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
-    path: /assets/images/profile.png # avatar file path
+    path: /assets/images/TalkMedia_3233609049249892353_1.jpg # avatar file path
 
 contact:
   # meta
