@@ -94,18 +94,17 @@ experience:
   items:
     - company: A L
       link:
-      tags: Full-time
+      tags: Full-time, Remote
       date: 2018.01 - Current
       role: P #olicy Associate / Statistical Programmer
       location: B #urlingame, CA
       description: |
-        Your key responsibilities and achievements in the company.
         + First
         + Second
 
     - company: A L
       link:
-      tags: Part-time, remote
+      tags: Full-time
       date: 2017.03 - 2018.03
       role: DPA 
       location: B
