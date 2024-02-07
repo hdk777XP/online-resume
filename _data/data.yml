@@ -1,15 +1,15 @@
 basic:
-  name: _______                       # name
-  title: DA SP           # job title
+  name: DK H                       # name
+  title:            # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # avatar file path
 
 contact:
   # meta
-  location: ______ # location
+  location: # location
   email: _________    # email address
-  phone: _____________ # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
+  phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
   website:     # site URL without schema, like example.com, will automatically prepand "https://"
 
   gender:                  # gender or pronoun
