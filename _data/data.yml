@@ -1,5 +1,5 @@
 basic:
-  name: _______                      # name
+  name: _______                       # name
   title: DA SP           # job title
   avatar:
     show: true                       # show or hide avatar
