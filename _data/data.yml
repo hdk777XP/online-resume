@@ -1,5 +1,5 @@
 basic:
-  name: DK H                       # name
+  name: DaeKun Heo                       # name
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
@@ -8,11 +8,11 @@ basic:
 contact:
   # meta
   location: # location
-  email: _________    # email address
+  email: daekunheo@gmail.com    # email address
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   # other cv
-  linkedin:  ____              # username          | https://linkedin.com/in/username
+  linkedin:  https://www.linkedin.com/in/dkheo              # username          | https://linkedin.com/in/username
 
 profile:
   show: true
@@ -30,24 +30,20 @@ experience:
   items:
     - company: Acumen LLC
       link:
-      tags: Full-time, Remote
+      tags: Full-time
       date: 2018.01 - Current
       role: Policy Associate 
-      location: Burlingame, CA
-      description: |
-        + First
-        + Second
-      role: DPA 
+      location: Remote
       description: |
         + First
         + Second
 
-    - company:    
+    - company: Acumen LLC   
       link:
       tags: Full-time
-      date: 2017.03 - 2018.03
-      role: DPA 
-      location: B
+      date: 2018.01 - 2018.12
+      role: DPA I
+      location: Burlingame, CA
       description: |
         Your key responsibilities and achievements in the company.
         + First
@@ -65,27 +61,27 @@ project:
       tags:
       date:
       description: |
-        Personal project description...
-        + First
-        + Second
+        + Produced actuarial projections for government spending, average premiums, and insurance enrollment in the U.S. non-group insurance market at the state and national level using health, economic, and survey data by utilizing raking algorithm, logistic regression, probit regression, multi-variate optimization via Newton-Raphson method.
+        + Modeled the effects of macroeconomic environment (i.e. inflation rate and unemployment rate) and federal/state-specific policies (i.e. American Rescue Plan Act of 2021) in non-group insurance market using STATA.
+        + Delivered executive summaries and actuarial reports to advise federal government in evaluating state innovation waivers and federal policies under proposal.
 
     - name: Enhanced Medication Therapy Management Model
       link: https://www.cms.gov/priorities/innovation/innovation-models/enhancedmtm
-      tags: committer
+      tags: 
       date:
       description: |
-        OSS project description...
-        + First
+        Helped produce 3rd, 4th, 5th annual evaluation reports published on public government website:
+        + Evaluated the impact of Part D providers intervention programs by utilizing propensity scores and Diff-in-Diff method on clinical measures and medical spending from Medicare claims and enrollment data.
         + Second
     
     - name: Episode-Based Cost Measures
       link:
-      tags: committer
+      tags: 
       date:
       description: |
-        OSS project description...
-        + First
-        + Second
+        + Provided data-driven policy advisory services to the Centers for Medicare and Medicaid Services (CMS) on the design and implementation of cost-measures to evaluate clinicians cost-efficiency under the Merit-based Incentive Payment System.
+        + Communicated with stake holders (i.e. providers, clinical specialty groups, and private companies) to incorporate clinical guidance into technical specifications and address feedback using data-driven analyses
+        + Produced and delivered 100,000+ reports to clinicians, clinician groups, and hospitals on their cost measure performance and guidance for improvement for policy beta-testing
 skill:
   show: true
   order: 4
@@ -103,10 +99,6 @@ education:
   order: 5
   title: Education
   description: |
-    The education section in a resume is where you provide information about your academic background, including any degrees. In this section, you should include the name and location of the institution where you received your degree, the name of the degree or program you completed, and the date of graduation. If you have earned multiple degrees, list them in reverse chronological order, with the most recent degree first.
-
-    In addition to basic information about your education, you may also want to include any academic honors or awards you received, relevant coursework or projects, and your GPA if it is 3.0 or above. If you have recently graduated and do not have much work experience yet, highlighting your education and academic achievements can help demonstrate your potential to succeed in the workplace.
-
   items:
     - institution: University of California, Berkeley
       link:
@@ -114,9 +106,8 @@ education:
       major: Statistics
       degree: Bachelor
       description: |
-        Courses: 
-        + First
-        + Second
+        Courses: Time Series, Linear Modeling, Statistical Research Methods, Game Theory
+
 
     - institution: University of California, Berkeley
       link:
@@ -124,8 +115,8 @@ education:
       major: Economics
       degree: Bachelor
       description: |
-        + First
-        + Second
+         Courses: Applied Econometrics, Public Economics, Development Economics
+
 language:
   show: true
   order: 11
