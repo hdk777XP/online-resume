@@ -1,5 +1,5 @@
 basic:
-  name: DK H                       # name
+  name: Daekun Heo                      # name
   title:            # job title
   avatar:
     show: true                       # show or hide avatar
@@ -7,12 +7,12 @@ basic:
 
 contact:
   # meta
-  location: # location
+  location: New York City Metropolitan Area, US # location
   email: daekunheo@gmail.com    # email address
   phone:  # phone number, format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
   # other cv
-  linkedin:  dkheo              # username          | https://linkedin.com/in/username
+  linkedin:  daekunheo              # username          | https://linkedin.com/in/username
 
 profile:
   show: true
@@ -117,7 +117,7 @@ education:
       major: Statistics
       degree: Bachelor
       description: |
-        Courses: Time Series, Linear Modeling, Statistical Research Methods, Game Theory
+        Courses: Time Series, Linear Modeling, Statistical Research Methods
 
 
     - institution: University of California, Berkeley
